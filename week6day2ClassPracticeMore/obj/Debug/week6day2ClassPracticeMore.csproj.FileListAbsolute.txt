@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\week6day2ClassPracticeMore\week6day2ClassPracticeMore\bin\Debug\week6day2ClassPracticeMore.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\week6day2ClassPracticeMore\week6day2ClassPracticeMore\bin\Debug\week6day2ClassPracticeMore.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\week6day2ClassPracticeMore\week6day2ClassPracticeMore\bin\Debug\week6day2ClassPracticeMore.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\week6day2ClassPracticeMore\week6day2ClassPracticeMore\obj\Debug\week6day2ClassPracticeMore.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\week6day2ClassPracticeMore\week6day2ClassPracticeMore\obj\Debug\week6day2ClassPracticeMore.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\week6day2ClassPracticeMore\week6day2ClassPracticeMore\obj\Debug\week6day2ClassPracticeMore.pdb
